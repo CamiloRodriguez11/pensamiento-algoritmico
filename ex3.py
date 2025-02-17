@@ -1,9 +1,9 @@
 print ("La variable inicial es = 10")
-a= 10 + 5
+a=+ 5
 print (F"Aumentado 5 = {a}")
-a = 10 - 3
+a =- 3
 print (F"Reduciendo 3 = {a}")
-a = 10*2
+a *= 2
 print (F"multiplicado por 2 = {a}")
-a= 10/4
+a /= 4
 print (F"dividido en 4= {a}")
